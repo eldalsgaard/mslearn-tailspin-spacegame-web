@@ -40,7 +40,7 @@ steps:
   parameters:
     buildConfiguration: 'Debug'
 
-- template: teampltes/build.yml
+- template: templates/build.yml
   parameters:
     buildConfiguration: 'Release'
 
